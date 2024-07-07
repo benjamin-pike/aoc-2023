@@ -30,7 +30,7 @@ To run the notebooks and test my solutions with your inputs, follow these steps:
 
 3. **Install required packages**
     
-    Other than Jupyter only package used that is not included in the Python standard library is `numpy` If required, you can install it using `pip`:
+    Other than Jupyter, the only package used that is not included in the Python standard library is `numpy`. If required, you can install it using `pip`:
 
     ```bash
     pip install numpy
